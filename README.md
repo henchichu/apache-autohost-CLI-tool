@@ -4,7 +4,7 @@ This tool can automatically set up and configure existing apache virtual hosts t
 
 OPTIONS DESCRIPTION:
 
-0) Current Working Directory - Indicates which domain you are currently working on.
+0) Current Working Domain - Indicates which domain you are currently working on.
 
 1) Auto Config - A one touch setup that will create a new domain, generate a test HTML, configure a .conf, and FORCE enable (disables all other active hosts)
 
