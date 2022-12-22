@@ -1,3 +1,5 @@
+DEBIAN COMPATIBLE ONLY! OUTSIDE USAGE AT YOUR OWN RISK!
+
 Welcome to hechichu's Apache Auto configuration tool!
 
 This tool can automatically set up and configure existing apache virtual hosts that were created with the tool.
